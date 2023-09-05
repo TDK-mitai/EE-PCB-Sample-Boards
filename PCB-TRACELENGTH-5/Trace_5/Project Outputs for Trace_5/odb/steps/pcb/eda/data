@@ -1,0 +1,76 @@
+# 05/09/2023 15:30:16
+#
+HDR Altium Designer file - Version 1.0.0.30000
+UNITS=MM
+LYR top_paste dielectric_1 top_overlay top_solder bottom_layer bottom_overlay drill_non-plated_bottom-top drill_plated_bottom-top bottom_solder drill_drawing_top-bottom drill_guide_top-bottom top_layer keep-out_layer bottom_paste mechanical_1 mechanical_13 mechanical_15 
+#
+#NET 0
+NET $NONE$
+#NET 1
+NET GND
+SNT PLN S C 0.00
+FID C 4 0
+SNT TOP T 0 0
+FID C 0 0
+FID C 3 0
+FID C 11 6
+SNT TOP T 0 1
+FID C 0 1
+FID C 3 1
+FID C 11 7
+SNT TRC
+FID C 11 5
+SNT TRC
+FID C 11 2
+SNT TRC
+FID C 11 3
+SNT TRC
+FID C 11 1
+SNT TRC
+FID C 11 0
+SNT TRC
+FID C 11 4
+# PKG 0
+PKG RES_0201_0603 0.65000124 -0.54500018 -0.17499838 0.54500018 0.17499838
+CT
+OB 0.30016196 -0.14990064 I
+OS -0.299847 -0.14990064
+OS -0.299847 0.15002256
+OS 0.30016196 0.15002256
+OS 0.30016196 -0.14990064
+OE
+CE
+PIN 1 S -0.32500062 0 0 U U
+CT
+OB -0.54344062 -0.17272 I
+OS -0.54344062 0.17272
+OS -0.10656062 0.17272
+OS -0.10656062 -0.17272
+OS -0.54344062 -0.17272
+OE
+CE
+PIN 2 S 0.32500062 0 0 U U
+CT
+OB 0.10656062 -0.17272 I
+OS 0.10656062 0.17272
+OS 0.54344062 0.17272
+OS 0.54344062 -0.17272
+OS 0.10656062 -0.17272
+OE
+CE
+#
+FGR TEXT
+# FGR 0
+PRP string 'R1'
+FID C 2 4
+FID C 2 5
+FID C 2 8
+FID C 2 10
+FID C 2 9
+FID C 2 7
+FID C 2 6
+FID C 2 13
+FID C 2 16
+FID C 2 14
+FID C 2 15
+#

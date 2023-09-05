@@ -1,0 +1,9 @@
+UNITS=MM
+H optimize n staggered n
+$0 $NONE$
+$1 GND
+#
+#Netlist points
+#
+1 0 92.52700062 92.202 T 0.43999912 0.3499993 e s
+1 0 91.87699938 92.202 T 0.43999912 0.3499993 e s
