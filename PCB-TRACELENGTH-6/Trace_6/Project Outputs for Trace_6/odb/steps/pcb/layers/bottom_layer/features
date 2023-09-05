@@ -1,0 +1,26 @@
+UNITS=MM
+#Layer_Physical_Order=2
+#Layer_Color=16711680
+#
+#Feature symbol names
+#
+
+#
+#Feature attribute names
+#
+
+#
+#Layer features
+#
+S P 0
+OB 130.429 55.118 I
+OS 130.683 54.864
+OS 129.921 54.102
+OS 51.01692108 54.102
+OS 50.92723368 54.19192108
+OS 51.054 102.743
+OS 51.181 102.87
+OS 130.429 102.87
+OS 130.429 55.118
+OE
+SE
