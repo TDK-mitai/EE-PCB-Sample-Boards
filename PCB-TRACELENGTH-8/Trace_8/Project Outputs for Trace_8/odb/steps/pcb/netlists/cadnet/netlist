@@ -1,8 +1,0 @@
-UNITS=MM
-H optimize n staggered n
-$0 $NONE$
-$1 Ground
-$2 Net-1
-#
-#Netlist points
-#
