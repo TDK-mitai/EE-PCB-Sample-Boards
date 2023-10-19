@@ -7,6 +7,12 @@ UNITS=MM
 #
 #Feature attribute names
 #
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
 
 #
 #Layer features
