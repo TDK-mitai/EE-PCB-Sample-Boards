@@ -6,12 +6,9 @@ From  : Variant [[No Variations]] of Project [Crosstalk-1.PrjPcb]
    Generated File[features]
    Generated File[features]
    Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
    Generated File[tools]
+   Generated File[features]
+   Generated File[features]
    Generated File[features]
    Generated File[tools]
    Generated File[features]
@@ -20,12 +17,20 @@ From  : Variant [[No Variations]] of Project [Crosstalk-1.PrjPcb]
    Generated File[features]
    Generated File[features]
    Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
    Generated File[netlist]
    Generated File[matrix]
    Generated File[Crosstalk-1.REP]
 
 
-Files Generated   : 22
+Files Generated   : 27
 Documents Printed : 0
 
-Finished Output Generation At 15:15:51 On 05/09/2023
+Finished Output Generation At 10:15:05 On 19/10/2023
