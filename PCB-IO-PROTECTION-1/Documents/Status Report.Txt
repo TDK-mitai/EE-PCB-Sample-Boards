@@ -1,0 +1,40 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:41:04 On 19/10/2023
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [PCB-IO-PROTECTION-1.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[PCB-IO-PROTECTION-1.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 22:41:07 On 19/10/2023
