@@ -1,9 +1,0 @@
-UNITS=MM
-H optimize n staggered n
-$0 $NONE$
-$1 GND
-#
-#Netlist points
-#
-1 0 105.09300038 85.598 T 0.17999964 0.22999954 e s
-1 0 105.47299962 85.598 T 0.17999964 0.22999954 e s
