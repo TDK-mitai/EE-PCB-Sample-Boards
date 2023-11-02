@@ -1,0 +1,36 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [PCB-LC_LPF10.PrjPcb]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[LC_LPF10.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 12:36:03 On 02/11/2023
