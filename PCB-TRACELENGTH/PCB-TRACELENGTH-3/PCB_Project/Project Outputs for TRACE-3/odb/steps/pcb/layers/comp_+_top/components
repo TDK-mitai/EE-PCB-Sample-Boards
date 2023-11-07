@@ -1,0 +1,69 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 99.06 89.281 0 N MP2 74650074R ;0=2,1=3.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://katalog.we-online.de/em/datasheet/74650074R.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/würth-elektronik/74650074R/6643979'
+PRP Current_Rating_(Amps) '50 A'
+PRP Features 'Screw not Included'
+PRP lastupdated '07/08/2022 20:40:07'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'Würth Elektronik'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Pins '4'
+PRP Packaging 'TapeAndReel'
+PRP Part_Number '74650074R'
+PRP Part_Status 'Active'
+PRP price '2.38'
+PRP Screw_Size 'M4'
+PRP Series 'REDCUBE WP-THRBU'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '732-10883-1-ND'
+PRP Terminal_Type 'Screw Terminal, Power Tap'
+PRP Termination 'Solder'
+TOP 0 101.99500048 86.34599952 0 N 1 2 1
+TOP 1 96.12499952 86.34599952 0 N 1 11 1
+TOP 2 101.99500048 92.21600048 0 N 1 3 1
+TOP 3 96.12499952 92.21600048 0 N 1 10 1
+TOP 4 99.06 89.281 0 N 0 0 MH1
+#
+# CMP 1
+CMP 1 99.68500002 70.358 0 N MP1 74651194R ;0=2,1=8.5000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://katalog.we-online.de/em/datasheet/74651194R.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/würth-elektronik/74651194R/6644003'
+PRP Current_Rating_(Amps) '85 A'
+PRP lastupdated '07/08/2022 21:20:29'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'Würth Elektronik'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Pins '9'
+PRP Packaging 'TapeAndReel'
+PRP Part_Number '74651194R'
+PRP Part_Status 'Active'
+PRP price '2.24'
+PRP Series 'REDCUBE WP-THRSH'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '732-10907-1-ND'
+PRP Terminal_Type 'Shank Terminal'
+PRP Termination 'Solder'
+TOP 0 95.25 74.79300002 0 N 1 12 1
+TOP 1 99.68500002 74.79300002 0 N 1 5 1
+TOP 2 104.12000004 74.79300002 0 N 1 4 1
+TOP 3 104.12000004 70.358 0 N 1 6 1
+TOP 4 99.68500002 70.358 0 N 1 8 1
+TOP 5 95.25 70.358 0 N 1 14 1
+TOP 6 95.25 65.92299998 0 N 1 13 1
+TOP 7 99.68500002 65.92299998 0 N 1 9 1
+TOP 8 104.12000004 65.92299998 0 N 1 7 1
+#

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C11_1-1
+Removed Pin From Net: NetName=GND Pin=C12_1-2
+Removed Member From Class: ClassName=LC_LPF6 Member=C11_1
+Removed Member From Class: ClassName=LC_LPF6 Member=C12_1
+Change Component Designator: OldDesignator=C9_1 NewDesignator=C5_1
+Change Component Designator: OldDesignator=C10_1 NewDesignator=C6_1
+Added Pin To Net: NetName=NetC5_1_2 Pin=C5_1-2
+Added Pin To Net: NetName=NetC5_1_2 Pin=C6_1-1
+Added Pin To Net: NetName=NetC5_1_2 Pin=J5_1-2
+Added Pin To Net: NetName=NetC5_1_2 Pin=L3_1-2
+Added Net: Name=NetC5_1_2
+Added Pin To Net: NetName=NetJ4_1_1 Pin=J4_1-1
+Added Pin To Net: NetName=NetJ4_1_1 Pin=L3_1-1
+Added Net: Name=NetJ4_1_1

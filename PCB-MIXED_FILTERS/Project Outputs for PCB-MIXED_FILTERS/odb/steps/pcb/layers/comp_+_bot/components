@@ -1,0 +1,75 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 4 75.946 87.249 90 N R1 1_kOhms ;0=1,1=0.4500
+PRP componentlink1description 'Datasheet'
+PRP componentlink1url 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773200&DocType=DS&DocLang=English'
+PRP componentlink2description 'DigiKey Link'
+PRP componentlink2url 'https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CPF0603B1K0E/2390473'
+PRP Composition 'Thin Film'
+PRP Device_Package '0603 (1608 Metric)'
+PRP Height_-_Seated_(Max) '0.022_ (0.55mm)'
+PRP lastupdated '01/11/2023 19:40:18'
+PRP Lifecycle_Status 'Active'
+PRP manufacturer 'TE Connectivity Passive Product'
+PRP Minimum_Order '1'
+PRP Number_of_Terminations '2'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP packaging 'TapeAndReel'
+PRP Part_Number 'CPF0603B1K0E'
+PRP Part_Status 'Active'
+PRP partid '4877'
+PRP Power_(Watts) '0.063W, 1/16W'
+PRP price '0.09'
+PRP Resistance '1 kOhms'
+PRP series 'CPF, Neohm'
+PRP Size_/_Dimension '0.061_ L x 0.031_ W (1.55mm x 0.80mm)'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Device_Package '0603'
+PRP Supplier_Part_Number_1 'A119887CT-ND'
+PRP Temperature_Coefficient '±25ppm/°C'
+PRP Tolerance '±0.1%'
+PRP Value '1 kOhms'
+TOP 0 75.946 87.89900124 180 N 4 0 1
+TOP 1 75.946 86.5990013 180 N 6 1 2
+#
+# CMP 1
+CMP 0 78.994 85.93900008 90 N C2 2.2_pF ;0=1,1=0.8900
+PRP Applications 'RF, Microwave, High Frequency, Bypass, Decoupling'
+PRP Capacitance '2.2 pF'
+PRP componentlink1description 'Datasheet'
+PRP componentlink1url 'http://www.atceramics.com/UserFiles/600s.pdf'
+PRP componentlink2description 'DigiKey Link'
+PRP componentlink2url 'https://www.digikey.com/en/products/detail/american-technical-ceramics/600S2R2AT250XT/3905215'
+PRP Device_Package '0603 (1608 Metric)'
+PRP Features 'High Q, Low Loss, Ultra Low ESR'
+PRP lastupdated '01/11/2023 19:10:24'
+PRP Lifecycle_Status 'Active'
+PRP manufacturer 'American Technical Ceramics'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP packaging 'TapeAndReel'
+PRP Part_Number '600S2R2AT250XT'
+PRP Part_Status 'Active'
+PRP partid '2146'
+PRP price '0.42'
+PRP series 'ATC 600S'
+PRP Size_/_Dimension '0.063_ L x 0.032_ W (1.60mm x 0.81mm)'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '1284-1198-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.035_ (0.89mm)'
+PRP Tolerance '±0.05pF'
+PRP Value '2.2 pF'
+PRP Voltage_-_Rated '250V'
+TOP 0 78.994 86.614 180 N 6 0 1
+TOP 1 78.994 85.26400016 180 N 8 5 2
+#

@@ -1,0 +1,103 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 85.852 61.976 0 N MP2 74651194R ;0=2,1=8.5000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://katalog.we-online.de/em/datasheet/74651194R.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/würth-elektronik/74651194R/6644003'
+PRP Current_Rating_(Amps) '85 A'
+PRP lastupdated '07/08/2022 21:20:29'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'Würth Elektronik'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Pins '9'
+PRP Packaging 'TapeAndReel'
+PRP Part_Number '74651194R'
+PRP Part_Status 'Active'
+PRP price '2.24'
+PRP Series 'REDCUBE WP-THRSH'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '732-10907-1-ND'
+PRP Terminal_Type 'Shank Terminal'
+PRP Termination 'Solder'
+TOP 0 81.41699998 66.41100002 0 N 2 8 1
+TOP 1 85.852 66.41100002 0 N 2 3 1
+TOP 2 90.28700002 66.41100002 0 N 2 2 1
+TOP 3 90.28700002 61.976 0 N 2 6 1
+TOP 4 85.852 61.976 0 N 2 4 1
+TOP 5 81.41699998 61.976 0 N 2 10 1
+TOP 6 81.41699998 57.54099998 0 N 2 9 1
+TOP 7 85.852 57.54099998 0 N 2 7 1
+TOP 8 90.28700002 57.54099998 0 N 2 5 1
+#
+# CMP 1
+CMP 1 91.694 93.218 0 N MP1 74650074R ;0=2,1=3.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://katalog.we-online.de/em/datasheet/74650074R.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/würth-elektronik/74650074R/6643979'
+PRP Current_Rating_(Amps) '50 A'
+PRP Features 'Screw not Included'
+PRP lastupdated '07/08/2022 20:40:07'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'Würth Elektronik'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Pins '4'
+PRP Packaging 'TapeAndReel'
+PRP Part_Number '74650074R'
+PRP Part_Status 'Active'
+PRP price '2.38'
+PRP Screw_Size 'M4'
+PRP Series 'REDCUBE WP-THRBU'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '732-10883-1-ND'
+PRP Terminal_Type 'Screw Terminal, Power Tap'
+PRP Termination 'Solder'
+TOP 0 94.62900048 90.28299952 0 N 3 2 1
+TOP 1 88.75899952 90.28299952 0 N 3 5 1
+TOP 2 94.62900048 96.15300048 0 N 3 1 1
+TOP 3 88.75899952 96.15300048 0 N 3 3 1
+TOP 4 91.694 93.218 0 N 0 0 MH1
+#
+# CMP 2
+CMP 0 91.567 85.725 180 N C1 15_pF ;0=1,1=0.8900
+PRP Applications 'RF, Microwave, High Frequency, Bypass, Decoupling'
+PRP Capacitance '15 pF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.atceramics.com/UserFiles/600s.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/american-technical-ceramics/600S150FW250XT/3905197'
+PRP Device_Package '0603 (1608 Metric)'
+PRP Features 'High Q, Low Loss, Ultra Low ESR'
+PRP lastupdated '22/10/2023 19:09:15'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'American Technical Ceramics'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'TapeAndReel'
+PRP Part_Number '600S150FW250XT'
+PRP Part_Status 'Active'
+PRP PartId '2157'
+PRP price '0.49'
+PRP Series 'ATC 600S'
+PRP Size_/_Dimension '0.063_ L x 0.032_ W (1.60mm x 0.81mm)'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '1284-1171-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.035_ (0.89mm)'
+PRP Tolerance '±1%'
+PRP Value '15 pF'
+PRP Voltage_-_Rated '250V'
+TOP 0 92.24199992 85.725 90 N 3 4 1
+TOP 1 90.89200008 85.725 90 N 2 1 2
+#
