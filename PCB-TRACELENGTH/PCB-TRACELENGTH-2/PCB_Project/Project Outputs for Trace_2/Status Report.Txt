@@ -1,0 +1,31 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [Trace_2.PrjPcb]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[trace_2.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 15:36:48 On 05/09/2023

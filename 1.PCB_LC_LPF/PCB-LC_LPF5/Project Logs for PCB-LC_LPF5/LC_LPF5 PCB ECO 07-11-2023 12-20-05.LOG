@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C7_1-1
+Removed Pin From Net: NetName=GND Pin=C8_1-2
+Removed Member From Class: ClassName=LC_LPF5 Member=C7_1
+Removed Member From Class: ClassName=LC_LPF5 Member=C8_1
+Change Component Designator: OldDesignator=C5_1 NewDesignator=C3_1
+Change Component Designator: OldDesignator=C6_1 NewDesignator=C4_1
+Added Pin To Net: NetName=NetC5_1_2 Pin=J4_1-2
+Added Pin To Net: NetName=NetC5_1_2 Pin=L2_1-2
+Change Net Name : Old Net Name=NetC5_1_2 New Net Name=NetC3_1_2

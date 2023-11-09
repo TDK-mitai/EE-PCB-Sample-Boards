@@ -1,0 +1,21 @@
+UNITS=MM
+#Layer_Physical_Order=1
+#Layer_Color=255
+#
+#Feature symbol names
+#
+$0 r254
+
+#
+#Feature attribute names
+#
+
+#
+#Layer features
+#
+L 76.327 70.739 84.709 79.121 0 P 0
+L 84.455 79.756 92.583 87.884 0 P 0
+L 94.996 62.865 94.996 73.152 0 P 0
+L 95.123 87.757 109.347 87.757 0 P 0
+L 95.631 72.517 95.631 83.82 0 P 0
+L 109.093 88.392 121.031 88.392 0 P 0
