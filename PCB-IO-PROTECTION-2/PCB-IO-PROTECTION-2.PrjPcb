@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCB-IO-PROTECTION-1.PcbDoc
+DocumentPath=PCB-IO-PROTECTION-21\PCB-IO-PROTECTION-1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,10 +63,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MEWRWOLV
+DocumentUniqueId=NSYWJEPP
 
 [Document2]
-DocumentPath=PCB-IO-PROTECTION-1.SchDoc
+DocumentPath=PCB-IO-PROTECTION-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FQLQTHUK
 
 [Document3]
-DocumentPath=..\..\altium-library\Altium Database Library V2.DbLib
+DocumentPath=PCB-IO-PROTECTION-2.PrjPcbStructure
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=PCB-IO-PROTECTION-1.OutJob
+DocumentPath=PCB-IO-PROTECTION-2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEWRWOLV
+
+[Document5]
+DocumentPath=PCB-IO-PROTECTION-2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,8 +133,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=PCB-IO-PROTECTION-1.IntLib
+[Document6]
+DocumentPath=PCB-IO-PROTECTION-2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,7 +148,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BWDASOHK
 
 [GeneratedDocument1]
 DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
@@ -226,18 +243,22 @@ DocumentPath=Documents\ODB\PCB-IO-PROTECTION-1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Documents\ODB\odb\steps\pcb\profile
+DocumentPath=Documents\ODB\PCB-IO-PROTECTION-2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
+DocumentPath=Documents\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
@@ -829,36 +850,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
