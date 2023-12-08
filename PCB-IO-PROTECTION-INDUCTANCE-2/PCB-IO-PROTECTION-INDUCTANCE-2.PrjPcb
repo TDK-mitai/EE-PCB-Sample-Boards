@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCB-IO-PROTECTION-3.PcbDoc
+DocumentPath=PCB-IO-PROTECTION-INDUCTANCE-2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,10 +63,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MEWRWOLV
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=PCB-IO-PROTECTION-3.OutJob
+DocumentPath=PCB-IO-PROTECTION-INDUCTANCE-2.PrjPcbStructure
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=PCB-IO-PROTECTION-3.SchDoc
+DocumentPath=PCB-IO-PROTECTION-INDUCTANCE-2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEWRWOLV
+
+[Document4]
+DocumentPath=PCB-IO-PROTECTION-INDUCTANCE-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQLQTHUK
 
-[Document4]
+[Document5]
 DocumentPath=PCB-IO-PROTECTION-3.PrjPcbStructure
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,75 +170,103 @@ DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\feature
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Documents\ODB\odb\matrix\matrix
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Documents\ODB\PCB-IO-PROTECTION-1.REP
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Documents\ODB\odb\steps\pcb\profile
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
+DocumentPath=Documents\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Documents\ODB\PCB-IO-PROTECTION-1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Documents\ODB\PCB-IO-PROTECTION-INDUCTANCE-2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Documents\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -409,42 +454,48 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PCBLIB Print
-OutputName9=PCBLIB Prints
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D
-OutputName10=PDF3D
+OutputType10=PCBLIB Print
+OutputName10=PCBLIB Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
+OutputType11=PDF3D
+OutputName11=PDF3D
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Report Print
-OutputName12=Report Prints
+OutputType12=PDF3D MBA
+OutputName12=PDF3D MBA
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Schematic Print
-OutputName13=Schematic Prints
+OutputType13=Report Print
+OutputName13=Report Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=SimView Print
-OutputName14=SimView Prints
+OutputType14=Schematic Print
+OutputName14=Schematic Prints
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=SimView Print
+OutputName15=SimView Prints
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -975,6 +1026,22 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1045,6 +1112,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1166,6 +1239,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1173,6 +1247,30 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
